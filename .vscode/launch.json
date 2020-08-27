@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Dart",
-            "program": "dart-ogenmeye-baslayalim/step-four/switch_kullanimi.dart",
+            "program": "dart-ogenmeye-baslayalim/4-step/operator_kullanimi.dart",
             "request": "launch",
             "type": "dart"
         }
