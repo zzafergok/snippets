@@ -49,6 +49,7 @@ main(List<String> args) {
   }
 
   int sayi = 46;
+  //to.Int kullanımı sayıyı tam sayı yapmak için kullanıldı
   int bolum = (sayi / 10).toInt();
 
   switch (bolum) {
