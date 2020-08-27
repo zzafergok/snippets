@@ -16,4 +16,20 @@ main(List<String> args) {
   } else {
     print("verdiğiniz sayılar birbirine eşittir");
   }
+
+  int notdegeri = -1;
+
+  if (notdegeri >= 90 && notdegeri <= 100) {
+    print("AA aldınız");
+  } else if (notdegeri >= 75 && notdegeri <= 90) {
+    print("BB aldınız");
+  } else if (notdegeri >= 55 && notdegeri <= 75) {
+    print("CC aldınız");
+  } else if (notdegeri >= 35 && notdegeri <= 55) {
+    print("DD aldınız");
+  } else if (notdegeri < 0 || notdegeri > 100) {
+    print("Salak salak not girmeyin");
+  } else {
+    print("Kaldınız");
+  }
 }
