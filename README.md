@@ -1,1 +1,0 @@
-merhaba burada flutter ogrenmeye calisacam
