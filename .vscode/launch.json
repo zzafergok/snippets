@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Dart",
-            "program": "dart-ogenmeye-baslayalim/5-step/operator_kullanimi_2.dart",
+            "program": "dart-ogenmeye-baslayalim/6-step/for_while_dowhile_donguleri.dart",
             "request": "launch",
             "type": "dart"
         }
