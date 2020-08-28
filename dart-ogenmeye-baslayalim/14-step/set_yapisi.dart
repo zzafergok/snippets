@@ -23,4 +23,14 @@ main(List<String> args) {
 
   bool sonuc = isimler.remove("emre");
   print("sonuc : $sonuc");
+
+  var numaralar =
+      Set.from([1, 1, 1, 11, 1, 11, 2, 13, 1, 23, 13, 1, 3, 14, 23, 4, 2]);
+  List<int> ciftsayilar = [0, 2, 4, 6, 8, 10, 8, 6, 4, 2, 0];
+
+  numaralar.addAll(ciftsayilar);
+
+  for (int s in numaralar) {
+    print("çift sayılar da dahil edildiğinde : $s");
+  }
 }
