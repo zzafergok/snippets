@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Dart",
-            "program": "dart-ogenmeye-baslayalim/13-step/buyuyen_listeler.dart",
+            "program": "dart-ogenmeye-baslayalim/14-step/set_yapisi.dart",
             "request": "launch",
             "type": "dart"
         }
