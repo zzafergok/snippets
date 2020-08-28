@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Dart",
-            "program": "dart-ogenmeye-baslayalim/14-step/set_yapisi.dart",
+            "program": "dart-ogenmeye-baslayalim/15-step/map_yapisi.dart",
             "request": "launch",
             "type": "dart"
         }
