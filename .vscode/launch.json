@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Dart",
-            "program": "dart-ogenmeye-baslayalim/7-step/sorular_part.dart",
+            "program": "dart-ogenmeye-baslayalim/8-step/fonksiyon_kavrami.dart",
             "request": "launch",
             "type": "dart"
         }
