@@ -1,3 +1,14 @@
+//Nesne Yöenlimli Pogramlamaya Giriş
+/**
+ * Sınıf : Kendi veri türleriniz veya soyut olan taslaklara denir. Kendi içinde değişkenlere ve methodlara sahiptir.
+ * İstadiğimiz bir nesnenin veya varlığın bilgisayar dilinde tanımıdır.
+ * 
+ * Nesne : Oluşturulan soyut ve taslak olan sınıflardan üretilen örneklere denir.
+ * Nesnelere sınıfın sahip olduğu değerlere ılaşmak için kullandığımız referanslar diyebiliriz.
+ * 
+ * Sınıf eğer uzaktan kumandalı bir araba ise nesne onu kontrol ettiğimiz bir kumandadır.
+ */
+
 main(List<String> args) {
   Ogrenci zafer = Ogrenci();
   var akin = Ogrenci();
