@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Dart",
-            "program": "dart-ogenmeye-baslayalim/12-step/fixed_list_kavrami.dart",
+            "program": "dart-ogenmeye-baslayalim/13-step/buyuyen_listeler.dart",
             "request": "launch",
             "type": "dart"
         }
