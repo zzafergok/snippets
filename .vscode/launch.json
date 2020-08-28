@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Dart",
-            "program": "dart-ogenmeye-baslayalim/6-step/for_while_dowhile_donguleri.dart",
+            "program": "dart-ogenmeye-baslayalim/7-step/sorular_part.dart",
             "request": "launch",
             "type": "dart"
         }
