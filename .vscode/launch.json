@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Dart",
-            "program": "dart-ogenmeye-baslayalim/19-step/kalitima_giris.dart",
+            "program": "dart-ogenmeye-baslayalim/20-step/polimorfizm_kavrami.dart",
             "request": "launch",
             "type": "dart"
         }
