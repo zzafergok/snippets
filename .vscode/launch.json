@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Dart",
-            "program": "dart-ogenmeye-baslayalim/17-step/kurucular_contructurs.dart",
+            "program": "dart-ogenmeye-baslayalim/17-step/kurucular_constructurs.dart",
             "request": "launch",
             "type": "dart"
         }
