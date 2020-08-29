@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Dart",
-            "program": "dart-ogenmeye-baslayalim/18-step/private_degisken_kullanimi.dart",
+            "program": "dart-ogenmeye-baslayalim/19-step/kalitima_giris.dart",
             "request": "launch",
             "type": "dart"
         }
