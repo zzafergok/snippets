@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Dart",
-            "program": "dart-ogenmeye-baslayalim/17-step/kurucular_constructurs.dart",
+            "program": "dart-ogenmeye-baslayalim/18-step/private_degisken_kullanimi.dart",
             "request": "launch",
             "type": "dart"
         }
