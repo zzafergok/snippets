@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Dart",
-            "program": "dart-ogenmeye-baslayalim/24-step/static_method.dart",
+            "program": "dart-ogenmeye-baslayalim/25-step/functional_programming.dart",
             "request": "launch",
             "type": "dart"
         }
