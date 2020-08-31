@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Dart",
-            "program": "dart-ogenmeye-baslayalim/21-step/kalitimda_kurucular.dart",
+            "program": "dart-ogenmeye-baslayalim/22-step/abstract_soyut_sinif.dart",
             "request": "launch",
             "type": "dart"
         }
