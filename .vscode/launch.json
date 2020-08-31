@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Dart",
-            "program": "dart-ogenmeye-baslayalim/22-step/abstract_soyut_sinif.dart",
+            "program": "dart-ogenmeye-baslayalim/23-step/interface.dart",
             "request": "launch",
             "type": "dart"
         }
