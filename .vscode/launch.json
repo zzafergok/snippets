@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Dart",
-            "program": "dart-ogenmeye-baslayalim/28-step/list_generate_and_map.dart",
+            "program": "dart-ogenmeye-baslayalim/29-step/future_await_async.dart",
             "request": "launch",
             "type": "dart"
         }
