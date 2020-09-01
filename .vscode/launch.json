@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Dart",
-            "program": "dart-ogenmeye-baslayalim/27-step/lexical_closure.dart",
+            "program": "dart-ogenmeye-baslayalim/28-step/list_generate_and_map.dart",
             "request": "launch",
             "type": "dart"
         }
