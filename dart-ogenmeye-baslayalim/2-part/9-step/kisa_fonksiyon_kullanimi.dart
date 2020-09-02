@@ -1,4 +1,5 @@
 main(List<String> args) {
+  //kısa fonksiyon kullanımı
   sayilariTopla();
   print("Çıkarma : " + sayilariCikar(45, 32).toString());
   print("Çarpma : " + sayilariCarp(5, 2).toString());
