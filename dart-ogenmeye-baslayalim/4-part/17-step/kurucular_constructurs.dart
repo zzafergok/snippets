@@ -24,6 +24,8 @@
  */
 
 main(List<String> args) {
+  //constructors
+
   //Ogrenci zafer = Ogrenci();
   /* zafer.ogrNo = 23;
   zafer.adi = "Zafer Gök";
