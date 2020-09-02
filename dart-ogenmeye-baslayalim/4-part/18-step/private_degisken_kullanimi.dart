@@ -1,6 +1,7 @@
 import 'ogrenci.dart';
 
 main(List<String> args) {
+  //use of private variables
   var zafer = Ogrenci(12, "zafer", true);
 
   print(zafer.ogrenciNoOku);
