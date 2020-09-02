@@ -3,6 +3,7 @@
  */
 
 main(List<String> args) {
+  //lexical closure
   String isim = "zafer";
 
   Function ismiGoster = () {
