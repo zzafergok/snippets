@@ -1,4 +1,5 @@
 main(List<String> args) {
+  //öğrenci
   var zafer = Ogrenci(56, "zafer gök", true);
 
   print(zafer._adi);
