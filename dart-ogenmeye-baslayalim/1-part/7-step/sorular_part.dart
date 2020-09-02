@@ -10,6 +10,7 @@
  */
 
 main(List<String> args) {
+  //Sorular
   //cevap-1
   double sayi1 = 15;
   double sayi2 = 25;
