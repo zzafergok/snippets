@@ -1,4 +1,5 @@
 main(List<String> args) {
+  //optional parametreli fonksiyonlar
   illeriYazdir("adana", "izmir", "istanbul");
   ulkeleriYazdir("turkiye");
   kitalariYazdir("avrupa", kita2: "asya", kita3: "amerika");
