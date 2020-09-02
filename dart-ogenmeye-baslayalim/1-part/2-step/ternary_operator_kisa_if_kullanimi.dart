@@ -1,4 +1,5 @@
 main(List<String> args) {
+  //ternary operator kısa if kullanımı
   int sayi1 = 10;
   int sayi2 = 12;
   var kucukSayi;
