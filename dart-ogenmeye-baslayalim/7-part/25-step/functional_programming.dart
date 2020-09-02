@@ -4,6 +4,7 @@
  */
 
 main(List<String> args) {
+  //functional programming
   sayilariTopla(5, 4);
 
   Function q1 = (int a, s) {
