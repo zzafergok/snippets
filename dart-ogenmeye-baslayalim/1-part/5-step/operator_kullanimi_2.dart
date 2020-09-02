@@ -1,5 +1,4 @@
-main(List<String> args) {
-  /** İşlem önceliği
+/** İşlem önceliği
    * () -> önce parantez ii işletilir
    * ++ ve -- değişkenden önce gelenler
    * "" ve / 
@@ -7,6 +6,9 @@ main(List<String> args) {
    * = atama işlemi
    * ++ ve -- Değişkenden sonra gelenler
    */
+
+main(List<String> args) {
+  //operator kullanımı-2
 
   //Artırma azaltma operatorleri
   int sayi1 = 10;
