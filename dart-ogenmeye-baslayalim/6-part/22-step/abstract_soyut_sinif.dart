@@ -8,6 +8,7 @@
  */
 
 main(List<String> args) {
+  //abstract class
   var k1 = Kare();
   k1.en = 4;
   k1.boy = 4;
