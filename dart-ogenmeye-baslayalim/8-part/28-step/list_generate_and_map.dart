@@ -1,6 +1,7 @@
 import 'dart:math';
 
 main(List<String> args) {
+  //list generate and map
   /* List<int> ogrenciNumaralari =
       List.generate(30, (index) => rastgeleOgrenciNoOlustur()); */
 
