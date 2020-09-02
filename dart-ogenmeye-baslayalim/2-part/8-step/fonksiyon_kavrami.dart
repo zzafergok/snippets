@@ -1,4 +1,5 @@
 void main(List<String> args) {
+  //fonksiyon kavramı
   int alanHesabi = alanHesapla();
   print("Alan Hesabı : " + alanHesabi.toString());
 
