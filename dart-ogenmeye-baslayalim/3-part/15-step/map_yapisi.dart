@@ -9,6 +9,7 @@
  */
 
 main(List<String> args) {
+  //map structure
   Map<String, Object> sehirkodlari = {
     "Ankara": 0123,
     "Adana": 0342,
