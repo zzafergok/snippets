@@ -1,4 +1,5 @@
 main(List<String> args) {
+  //polimorfizm kavramı
   Er zafer = new Er();
   Er akin = Er();
   Asker yeni = Er();
