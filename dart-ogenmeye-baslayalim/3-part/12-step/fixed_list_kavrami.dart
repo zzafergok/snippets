@@ -10,6 +10,7 @@
  */
 
 main(List<String> args) {
+  //fixed list kavramı
   List<int> numaralarim = List.filled(5, 3);
   numaralarim[0] = 4;
   numaralarim[1] = 34;
