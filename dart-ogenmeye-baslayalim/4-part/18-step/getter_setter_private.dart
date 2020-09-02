@@ -1,4 +1,5 @@
 main(List<String> args) {
+  //getter sette private
   var zafer = Ogrenci(56, "zafer gök", true);
 
   print(zafer.adi);
