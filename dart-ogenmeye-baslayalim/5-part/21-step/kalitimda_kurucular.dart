@@ -4,6 +4,8 @@
  */
 
 main(List<String> args) {
+  //contructors in inheritance
+
   //Kopek sakar = new Kopek();
   // var ıslak = Kopek();
   /*   tony.cins = "Golden";
