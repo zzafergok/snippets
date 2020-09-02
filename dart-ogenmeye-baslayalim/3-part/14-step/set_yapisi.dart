@@ -8,6 +8,7 @@
  */
 
 main(List<String> args) {
+  //set yapısı
   Set<String> isimler = Set();
   isimler.add("zafer");
   isimler.add("emre");
