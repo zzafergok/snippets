@@ -10,6 +10,7 @@
  */
 
 main(List<String> args) {
+  //static method
   var zafer = Ogrenci();
   Ogrenci.ogrSayisi++;
   Ogrenci.ogrSayisiniYazdir();
