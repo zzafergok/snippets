@@ -1,4 +1,5 @@
 main(List<String> args) {
+  //login to inheritance
   var k1 = Kopek();
   k1.renk = "Siyah";
   k1.cins = "Golden";
