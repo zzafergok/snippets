@@ -7,6 +7,7 @@
  */
 
 main(List<String> args) {
+  //switch kullanımı
   String notdegeri = "BA";
 
   switch (notdegeri) {
