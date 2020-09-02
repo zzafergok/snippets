@@ -10,6 +10,7 @@
  */
 
 main(List<String> args) {
+  //first class example
   Ogrenci zafer = Ogrenci();
   var akin = Ogrenci();
 
