@@ -1,4 +1,5 @@
 main(List<String> args) {
+  //operator kullanımı
   double sayi1 = 100;
   double sayi2 = 25;
 
