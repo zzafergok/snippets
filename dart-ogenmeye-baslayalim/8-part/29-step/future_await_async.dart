@@ -2,6 +2,7 @@
 import 'dart:async';
 
 main(List<String> args) {
+  //future await async
   print("Program başladı");
 
   dosyaIceriginiGoster();
