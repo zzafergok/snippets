@@ -2,6 +2,7 @@ import 'dart:async';
 import 'dart:math';
 
 main(List<String> args) {
+  //async process part-1
   futureKullanimi();
   zincirlemeFuture();
 }
