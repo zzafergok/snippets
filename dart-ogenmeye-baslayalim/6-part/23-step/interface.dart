@@ -9,6 +9,7 @@
  */
 
 main(List<String> args) {
+  //interface
   var tv = Televizyon();
   nesneleriCalistir(tv);
 
