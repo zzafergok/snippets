@@ -1,4 +1,5 @@
 main(List<String> args) {
+  //exeption istisna
   //olası hatanın adı veya  sebebi biliniyorsa
   try {
     int sonuc = 12 ~/ 0;
