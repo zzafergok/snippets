@@ -4,6 +4,7 @@
  */
 
 main(List<String> args) {
+  //higher order functions
   Function sayilariTopla = (s1, s2) => print(s1 + s2);
   birMethod("zafer", sayilariTopla);
 
