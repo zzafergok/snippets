@@ -11,6 +11,7 @@
  */
 
 main(List<String> args) {
+  //büyüyen listeler
   List<int> numaralar = List();
   numaralar.add(0);
   numaralar.add(1);
