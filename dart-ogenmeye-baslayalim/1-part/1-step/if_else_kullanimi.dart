@@ -1,4 +1,5 @@
 main(List<String> args) {
+  //if else - if else-if else
   int sayi1 = 12;
   num sayi2 = 12;
   // var sayi3 = 13;
