@@ -1,7 +1,5 @@
 import 'dart:math';
 
-import '../18-step/ogrenci.dart';
-
 main(List<String> args) {
   /* List<int> ogrenciNumaralari =
       List.generate(30, (index) => rastgeleOgrenciNoOlustur()); */
