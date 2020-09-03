@@ -19,6 +19,8 @@
       <sourceFolder url="file://$MODULE_DIR$/gen" isTestSource="false" generated="true" />
       <excludeFolder url="file://$MODULE_DIR$/flutter-tries/new_projects/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/flutter-tries/new_projects/build" />
+      <excludeFolder url="file://$MODULE_DIR$/terminal_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/terminal_app/build" />
     </content>
     <orderEntry type="jdk" jdkName="Android API 30 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
